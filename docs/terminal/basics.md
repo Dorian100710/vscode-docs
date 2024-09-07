@@ -1,6 +1,6 @@
 ---
 Order: 2
-Area: terminal
+rea: terminal
 TOCTitle: Terminal Basics
 ContentId: 7B4DC928-2414-4FC7-9C76-E4A13D6675FE
 PageTitle: Integrated Terminal in Visual Studio Code
@@ -460,4 +460,4 @@ One of our accessibility features we enable by default is to ensure a minimum co
 "terminal.integrated.minimumContrastRatio": 1
 ```
 
-See the [minimum contrast ratio](/docs/terminal/appearance.md#minimum-contrast-ratio) section for more information.
+
